@@ -1599,4 +1599,5 @@ BEGIN
 END;
 /
 
+
 select table_name From user_tables;
